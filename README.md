@@ -1,4 +1,4 @@
-## 🧠 Brain Tumor Detection and Segmentation using Image Processing
+## Morphological Transformations in Image Preprocessing
 
 ### 👥 Team Members:
 
