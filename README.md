@@ -10,8 +10,7 @@
 
 ### 📌 Problem Statement:
 
-The goal of this project is to **automatically detect and segment brain tumors from MRI scans** using **Digital Image Processing (DIP)** techniques and **machine learning-based segmentation methods**. The objective is to enhance tumor visibility to support **diagnosis** and **treatment planning**.
-
+In many image processing tasks, raw images suffer from noise, irregular shapes, and low feature visibility, making it difficult to perform accurate object detection and segmentation. Morphological transformations provide a set of powerful tools to refine image structures, remove noise, and highlight essential shapes, thereby improving the performance of subsequent analysis and computer vision applications.
 ---
 
 ### 🔁 Program Flow & Techniques:
